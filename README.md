@@ -9,6 +9,8 @@
   
 - 📫 How to reach me **ishankyagnik29@gmail.com**
 
+- Visit my Portfolio **https://yagnikxdevportfolio.netlify.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishank yagnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishank yagnik" height="30" width="40" /></a>
